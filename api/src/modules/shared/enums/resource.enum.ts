@@ -1,0 +1,16 @@
+export enum EResources {
+  Role = 'Role',
+  Permission = 'Permission',
+  User = 'User',
+  Category = 'Category',
+  Product = 'Product',
+  Audit = 'Audit',
+  Notification = 'Notification',
+  Address = 'Address',
+  ProductPackage = 'ProductPackage',
+  Voucher = 'Voucher',
+  Promo = 'Promo',
+  MockPayment = 'MockPayment',
+  MockCourier = 'MockCourier',
+  Order = 'Order',
+}
